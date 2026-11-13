@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2026-11-13 12:00">
+  <shop>
+    <name>Банкротное Бюро Калининграда</name>
+    <company>ИП Аминов Владимир Русланович</company>
+    <url>https://bankrotnoeburo.ru</url>
+    
+    <currencies>
+      <currency id="RUR" rate="1"/>
+    </currencies>
+    
+    <!-- Сеты: по одному на каждую уникальную услугу/тариф -->
+    <sets>
+      <set id="set-akcionnyj">
+        <name>Банкротство физлиц — Акционный</name>
+        <url>https://bankrotnoeburo.ru/price</url>
+      </set>
+      <set id="set-optimalnyj">
+        <name>Банкротство физлиц — Оптимальный</name>
+        <url>https://bankrotnoeburo.ru/price</url>
+      </set>
+      <set id="set-standartnyj">
+        <name>Банкротство физлиц — Стандартный</name>
+        <url>https://bankrotnoeburo.ru/price</url>
+      </set>
+      <set id="set-premium">
+        <name>Банкротство физлиц — Премиум</name>
+        <url>https://bankrotnoeburo.ru/price</url>
+      </set>
+      <set id="set-mfc">
+        <name>Внесудебное банкротство через МФЦ</name>
+        <url>https://bankrotnoeburo.ru/mfc</url>
+      </set>
+      <set id="set-spory">
+        <name>Споры о защите прав потребителя</name>
+        <url>https://bankrotnoeburo.ru/price</url>
+      </set>
+    </sets>
+    
+    <categories>
+      <category id="1">Банкротство физических лиц под ключ</category>
+      <category id="2">Банкротство через МФЦ</category>
+      <category id="3">Юридические услуги</category>
+    </categories>
+    
+    <offers>
+      <!-- Акционный -->
+      <offer id="bankrotstvo-akcionnyj">
+        <name>Банкротство физических лиц — пакет «Акционный»</name>
+        <url>https://bankrotnoeburo.ru/price</url>
+        <price>99000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://static.tildacdn.com/tila3730-3164-4935-b634-386230396335/ceny-na-bankrotstvo-.jpg</picture>
+        <description>Для простых случаев без споров с кредиторами.</description>
+        <set-ids>set-akcionnyj</set-ids>
+        <param name="Рейтинг">4.9</param>
+        <param name="Число отзывов">127</param>
+        <param name="Регион">Калининград</param>
+        <param name="Годы опыта">11</param>
+      </offer>
+      
+      <!-- Оптимальный -->
+      <offer id="bankrotstvo-optimalnyj">
+        <name>Банкротство физических лиц — пакет «Оптимальный»</name>
+        <url>https://bankrotnoeburo.ru/price</url>
+        <price>136490</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://static.tildacdn.com/tila3730-3164-4935-b634-386230396335/ceny-na-bankrotstvo-.jpg</picture>
+        <description>Сбалансированный пакет для большинства случаев.</description>
+        <set-ids>set-optimalnyj</set-ids>
+        <param name="Рейтинг">4.9</param>
+        <param name="Число отзывов">127</param>
+        <param name="Регион">Калининград</param>
+        <param name="Годы опыта">11</param>
+      </offer>
+      
+      <!-- Стандартный -->
+      <offer id="bankrotstvo-standartnyj">
+        <name>Банкротство физических лиц — пакет «Стандартный»</name>
+        <url>https://bankrotnoeburo.ru/price</url>
+        <price>154000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://static.tildacdn.com/tila3730-3164-4935-b634-386230396335/ceny-na-bankrotstvo-.jpg</picture>
+        <description>Расширенная защита при наличии споров.</description>
+        <set-ids>set-standartnyj</set-ids>
+        <param name="Рейтинг">4.9</param>
+        <param name="Число отзывов">127</param>
+        <param name="Регион">Калининград</param>
+        <param name="Годы опыта">11</param>
+      </offer>
+      
+      <!-- Премиум -->
+      <offer id="bankrotstvo-premium">
+        <name>Банкротство физических лиц — пакет «Премиум»</name>
+        <url>https://bankrotnoeburo.ru/price</url>
+        <price>200000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://static.tildacdn.com/tila3730-3164-4935-b634-386230396335/ceny-na-bankrotstvo-.jpg</picture>
+        <description>Полное сопровождение с личным юристом.</description>
+        <set-ids>set-premium</set-ids>
+        <param name="Рейтинг">4.9</param>
+        <param name="Число отзывов">127</param>
+        <param name="Регион">Калининград</param>
+        <param name="Годы опыта">11</param>
+      </offer>
+      
+      <!-- МФЦ -->
+      <offer id="bankrotstvo-mfc">
+        <name>Внесудебное банкротство через МФЦ</name>
+        <url>https://bankrotnoeburo.ru/mfc</url>
+        <price>15000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://static.tildacdn.com/tila3730-3164-4935-b634-386230396335/ceny-na-bankrotstvo-.jpg</picture>
+        <description>Идеальное решение, если сумма долга от 25 000 до 1 000 000 рублей.</description>
+        <set-ids>set-mfc</set-ids>
+        <param name="Рейтинг">4.9</param>
+        <param name="Число отзывов">127</param>
+        <param name="Регион">Калининград</param>
+        <param name="Годы опыта">11</param>
+      </offer>
+      
+      <!-- Споры -->
+      <offer id="uridicheskie-uslugi-spory">
+        <name>Споры о защите прав потребителя</name>
+        <url>https://bankrotnoeburo.ru/price</url>
+        <price>25000</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://static.tildacdn.com/tila3730-3164-4935-b634-386230396335/ceny-na-bankrotstvo-.jpg</picture>
+        <description>Юридическая помощь в спорах о защите прав потребителей.</description>
+        <set-ids>set-spory</set-ids>
+        <param name="Рейтинг">4.9</param>
+        <param name="Число отзывов">127</param>
+        <param name="Регион">Калининград</param>
+        <param name="Годы опыта">11</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
