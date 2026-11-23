@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-11-13 12:00">
+<yml_catalog date="2026-11-23 12:00">
   <shop>
     <name>Банкротное Бюро Калининграда</name>
     <company>ИП Аминов Владимир Русланович</company>
@@ -9,7 +9,6 @@
       <currency id="RUR" rate="1"/>
     </currencies>
     
-    <!-- Сеты: по одному на каждую уникальную услугу/тариф -->
     <sets>
       <set id="set-akcionnyj">
         <name>Банкротство физлиц — Акционный</name>
@@ -56,8 +55,10 @@
         <set-ids>set-akcionnyj</set-ids>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">127</param>
-        <param name="Регион">Калининград</param>
         <param name="Годы опыта">11</param>
+        <param name="Регион">Калининград</param>
+        <param name="Конверсия">1</param>
+        <param name="Ссылка на телефон">tel:+74012300414</param>
       </offer>
       
       <!-- Оптимальный -->
@@ -72,8 +73,10 @@
         <set-ids>set-optimalnyj</set-ids>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">127</param>
-        <param name="Регион">Калининград</param>
         <param name="Годы опыта">11</param>
+        <param name="Регион">Калининград</param>
+        <param name="Конверсия">1</param>
+        <param name="Ссылка на телефон">tel:+74012300414</param>
       </offer>
       
       <!-- Стандартный -->
@@ -88,8 +91,10 @@
         <set-ids>set-standartnyj</set-ids>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">127</param>
-        <param name="Регион">Калининград</param>
         <param name="Годы опыта">11</param>
+        <param name="Регион">Калининград</param>
+        <param name="Конверсия">1</param>
+        <param name="Ссылка на телефон">tel:+74012300414</param>
       </offer>
       
       <!-- Премиум -->
@@ -104,8 +109,10 @@
         <set-ids>set-premium</set-ids>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">127</param>
-        <param name="Регион">Калининград</param>
         <param name="Годы опыта">11</param>
+        <param name="Регион">Калининград</param>
+        <param name="Конверсия">1</param>
+        <param name="Ссылка на телефон">tel:+74012300414</param>
       </offer>
       
       <!-- МФЦ -->
@@ -120,8 +127,10 @@
         <set-ids>set-mfc</set-ids>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">127</param>
-        <param name="Регион">Калининград</param>
         <param name="Годы опыта">11</param>
+        <param name="Регион">Калининград</param>
+        <param name="Конверсия">1</param>
+        <param name="Ссылка на телефон">tel:+74012300414</param>
       </offer>
       
       <!-- Споры -->
@@ -136,8 +145,10 @@
         <set-ids>set-spory</set-ids>
         <param name="Рейтинг">4.9</param>
         <param name="Число отзывов">127</param>
-        <param name="Регион">Калининград</param>
         <param name="Годы опыта">11</param>
+        <param name="Регион">Калининград</param>
+        <param name="Конверсия">1</param>
+        <param name="Ссылка на телефон">tel:+74012300414</param>
       </offer>
     </offers>
   </shop>
