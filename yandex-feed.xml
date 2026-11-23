@@ -57,7 +57,7 @@
         <param name="Число отзывов">127</param>
         <param name="Годы опыта">11</param>
         <param name="Регион">Калининград</param>
-        <param name="Конверсия">1</param>
+        <param name="конверсия">1</param>
         <param name="Ссылка на телефон">tel:+74012300414</param>
       </offer>
       
@@ -75,7 +75,7 @@
         <param name="Число отзывов">127</param>
         <param name="Годы опыта">11</param>
         <param name="Регион">Калининград</param>
-        <param name="Конверсия">1</param>
+        <param name="конверсия">1</param>
         <param name="Ссылка на телефон">tel:+74012300414</param>
       </offer>
       
@@ -93,7 +93,7 @@
         <param name="Число отзывов">127</param>
         <param name="Годы опыта">11</param>
         <param name="Регион">Калининград</param>
-        <param name="Конверсия">1</param>
+        <param name="конверсия">1</param>
         <param name="Ссылка на телефон">tel:+74012300414</param>
       </offer>
       
@@ -111,7 +111,7 @@
         <param name="Число отзывов">127</param>
         <param name="Годы опыта">11</param>
         <param name="Регион">Калининград</param>
-        <param name="Конверсия">1</param>
+        <param name="конверсия">1</param>
         <param name="Ссылка на телефон">tel:+74012300414</param>
       </offer>
       
@@ -129,7 +129,7 @@
         <param name="Число отзывов">127</param>
         <param name="Годы опыта">11</param>
         <param name="Регион">Калининград</param>
-        <param name="Конверсия">1</param>
+        <param name="конверсия">1</param>
         <param name="Ссылка на телефон">tel:+74012300414</param>
       </offer>
       
@@ -147,7 +147,7 @@
         <param name="Число отзывов">127</param>
         <param name="Годы опыта">11</param>
         <param name="Регион">Калининград</param>
-        <param name="Конверсия">1</param>
+        <param name="конверсия">1</param>
         <param name="Ссылка на телефон">tel:+74012300414</param>
       </offer>
     </offers>
