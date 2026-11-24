@@ -4,11 +4,11 @@
     <name>Банкротное Бюро Калининграда</name>
     <company>ИП Аминов Владимир Русланович</company>
     <url>https://bankrotnoeburo.ru</url>
-    
+
     <currencies>
       <currency id="RUR" rate="1"/>
     </currencies>
-    
+
     <sets>
       <set id="set-akcionnyj">
         <name>Банкротство физлиц — Акционный</name>
@@ -35,13 +35,13 @@
         <url>https://bankrotnoeburo.ru/price</url>
       </set>
     </sets>
-    
+
     <categories>
       <category id="1">Банкротство физических лиц под ключ</category>
       <category id="2">Банкротство через МФЦ</category>
       <category id="3">Юридические услуги</category>
     </categories>
-    
+
     <offers>
       <!-- Акционный -->
       <offer id="bankrotstvo-akcionnyj">
@@ -58,9 +58,9 @@
         <param name="Годы опыта">11</param>
         <param name="Регион">Калининград</param>
         <param name="конверсия">1</param>
-        <param name="Ссылка на телефон">tel:+74012300414</param>
+        <param name="Телефон">tel:+74012300414</param>
       </offer>
-      
+
       <!-- Оптимальный -->
       <offer id="bankrotstvo-optimalnyj">
         <name>Банкротство физических лиц — пакет «Оптимальный»</name>
@@ -76,9 +76,9 @@
         <param name="Годы опыта">11</param>
         <param name="Регион">Калининград</param>
         <param name="конверсия">1</param>
-        <param name="Ссылка на телефон">tel:+74012300414</param>
+        <param name="Телефон">tel:+74012300414</param>
       </offer>
-      
+
       <!-- Стандартный -->
       <offer id="bankrotstvo-standartnyj">
         <name>Банкротство физических лиц — пакет «Стандартный»</name>
@@ -94,9 +94,9 @@
         <param name="Годы опыта">11</param>
         <param name="Регион">Калининград</param>
         <param name="конверсия">1</param>
-        <param name="Ссылка на телефон">tel:+74012300414</param>
+        <param name="Телефон">tel:+74012300414</param>
       </offer>
-      
+
       <!-- Премиум -->
       <offer id="bankrotstvo-premium">
         <name>Банкротство физических лиц — пакет «Премиум»</name>
@@ -112,9 +112,9 @@
         <param name="Годы опыта">11</param>
         <param name="Регион">Калининград</param>
         <param name="конверсия">1</param>
-        <param name="Ссылка на телефон">tel:+74012300414</param>
+        <param name="Телефон">tel:+74012300414</param>
       </offer>
-      
+
       <!-- МФЦ -->
       <offer id="bankrotstvo-mfc">
         <name>Внесудебное банкротство через МФЦ</name>
@@ -130,9 +130,9 @@
         <param name="Годы опыта">11</param>
         <param name="Регион">Калининград</param>
         <param name="конверсия">1</param>
-        <param name="Ссылка на телефон">tel:+74012300414</param>
+        <param name="Телефон">tel:+74012300414</param>
       </offer>
-      
+
       <!-- Споры -->
       <offer id="uridicheskie-uslugi-spory">
         <name>Споры о защите прав потребителя</name>
@@ -148,7 +148,7 @@
         <param name="Годы опыта">11</param>
         <param name="Регион">Калининград</param>
         <param name="конверсия">1</param>
-        <param name="Ссылка на телефон">tel:+74012300414</param>
+        <param name="Телефон">tel:+74012300414</param>
       </offer>
     </offers>
   </shop>
